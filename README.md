@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Avi (@Dimah4x)
-- 👀 I’m interested in finding new ideas to develop in python and C/C++
-- 🌱 I’m currently learning BSC Electronics
-- 💞️ I’m looking to collaborate on fun projects with no commitment 
-- 📫 How to reach me: feel free to send a leave comment with question or w.e. , if we hit it off we find new ways
+👋 Hi, I’m Avi (@Dimah4x)
